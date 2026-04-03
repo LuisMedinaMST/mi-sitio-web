@@ -8,13 +8,15 @@ const Hero = () => {
         Traducción jurídica y localización de software 
       </h2>
       <p className="text-gris-carbon mt-6 text-xl max-w-3xl">
-        Traductor certificado por la American Translators Association  y perito traductor autorizado por el Supremo Tribunal de Justicia del Estado de Colima. 
-        Desarrollador back-end en formación con dominio de JavaScript y Python[cite: 40, 72, 73, 74].
+        Traductor certificado por la American Translators Association  y perito traductor autorizado por el Supremo Tribunal de Justicia del Estado de Colima.
+      </p>
+      <p className="text-gris-carbon mt-6 text-xl max-w-3xl"> 
+        Desarrollador back-end en formación con dominio de JavaScript y Python.
       </p>
       <div className="flex gap-4 mt-8">
         <button 
           aria-label="Contactar a Luis Medina para servicios de traducción"
-          className="bg-turquesa-tech text-white px-8 py-3 rounded-lg font-bold hover:bg-azul-profundo transition-all shadow-md">
+          className="border-2 border-azul-profundo text-azul-profundo px-8 py-3 rounded-lg font-bold hover:bg-nube-clara transition-all shadow-md">
           Contactar
         </button>
         <a 
