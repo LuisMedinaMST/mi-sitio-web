@@ -44,7 +44,7 @@ const TrustBar = () => {
               <p className="text-turquesa-tech text-xs font-semibold mt-1">
                 {cert.subtitle}
               </p>
-              <p className="text-gris-carbon text-[10px] mt-1 opacity-0 group-hover:opacity-100 transition-opacity">
+              <p className="text-nube-clara text-[10px] mt-1 opacity-0 group-hover:opacity-100 transition-opacity">
                 {cert.info}
               </p>
             </div>

@@ -3,7 +3,7 @@ import TrustBar from './components/TrustBar'
 
 function App() {
   return (
-    <div className="min-h-screen bg-[#f4f6f8]">
+    <div className="min-h-screen bg-azul-profundo">
       <Hero />
       <TrustBar />
     </div>
