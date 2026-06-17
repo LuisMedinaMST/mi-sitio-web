@@ -2,7 +2,12 @@
 
 @theme {
   --color-azul-profundo: #0f2a44;
-  --color-turquesa-tech: #1fa4a9;
   --color-gris-carbon: #3a3f45;
+  --color-turquesa-tech: #1fa4a9;
   --color-nube-clara: #f4f6f8;
+}
+
+/* Desplazamiento suave para una UX fluida */
+html {
+  scroll-behavior: smooth;
 }

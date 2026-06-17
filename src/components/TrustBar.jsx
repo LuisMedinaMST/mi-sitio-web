@@ -3,13 +3,13 @@ const TrustBar = () => {
     {
       title: "Certificado por la American Translators Association",
       subtitle: "Traducción de inglés a español",
-      info: "Certificación #511370", 
+      info: "Desde 2016", 
       icon: "📜" 
     },
     {
       title: "Perito traductor",
       subtitle: "Supremo Tribunal de Justicia del Estado de Colima",
-      info: "Autorizado por el Supremo Tribunal",
+      info: "Autorizado por el Supremo Tribunal y varios municipios de Colima",
       icon: "⚖️"
     },
     {
@@ -19,8 +19,8 @@ const TrustBar = () => {
       icon: "👥"
     },
     {
-      title: "Fullstack Dev",
-      subtitle: "JS & Python",
+      title: "Desarrollador full stack",
+      subtitle: "JavaScript y Python",
       info: "En formación activa desde 2024", 
       icon: "💻"
     }
